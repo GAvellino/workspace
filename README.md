@@ -16,7 +16,7 @@ We investigate the ethical dimensions of computational systems through empirical
 | Name | Role | Profile |
 |------|------|---------|
 | Prof. Dr. Paula Helm | Group Lead | [→ Profile](./profiles/paula-helm/) |
-| Yarden Skop| PostDoc Researcher | [→ Profile](./profiles/yarden-skop/) |
+| Dr. Yarden Skop| PostDoc Researcher | [→ Profile](./profiles/yarden-skop/) |
 | Giamaria Avellino | PhD Researcher | [→ Profile](./profiles/giamaria-avellino/) |
 | Ella Streefkerk | PhD Researcher | [→ Profile](./profiles/ella-streefkerk/) |
 | Mihlali Gubevu | Research Assistant | [→ Profile](./profiles/mihlali-gubevu/) |
