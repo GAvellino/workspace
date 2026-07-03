@@ -6,7 +6,13 @@
 *Bio coming soon.*
 
 ## Research Interests
-- 
+- Epistemology of Emotion Models between Social Psychology and Psychopathology
+- Sentiment & Emotion Modeling
+- Classification
+- Analysis in Natural Language Processing\Computational Linguistics
+- Empirical Computational Ethics
+- Science and Technology Studies
+- Critical Social Metaphysics and Network Analysis
 
 ## Links
 - GitHub: [@GAvellino](https://github.com/GAvellino)
