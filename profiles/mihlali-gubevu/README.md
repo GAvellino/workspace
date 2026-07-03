@@ -12,6 +12,7 @@ Mihlali is a Master's candidate in Science and Technology Studies at Goethe-Univ
 - AI governance and corporate responsible AI frameworks
 - Data protection regulation and cross-jurisdictional governance
 - Algorithms and Society
+- Empirical Ethics
 - Science and Technology Studies, co-production, and infrastructure
 - Discourse analysis as a method for studying institutional documents
 
