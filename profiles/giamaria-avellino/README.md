@@ -1,18 +1,13 @@
-# Giamaria Avellino
+# Gianmaria Avellino
 
 **PhD Researcher** — ReMa candidate in Cultural Data & AI within the department of Media Studies, University of Amsterdam.
 
 ## About
-Giamaria is an independent philosopher, media researcher, and cultural critic whose work bridges contemporary European philosophy and modern techno-politics. He focuses specifically on digital methods, generative AI infrastructure, and media aesthetics. He holds a degree in theoretical philosophy from the Università degli Studi di Napoli "Federico II" and has collaborated with the Media Studies department at the University of Amsterdam. His writing frequently interrogates the systemic, political, and psychological impacts of digital platforms and network cultures.
+Gianmaria Avellino is pursuing a PhD in Empirical Computational Ethics and Data Science in cotutelle between the Center for Critical Computational Studies at Goethe University Frankfurt (Department of Social Sciences) and IMT Atlantique (Department of Data Science), part of the Institut Mines-Télécom, in Brest, France. His training is originally rooted in philosophy, history and classical studies. He holds a Bachelor's ("Laurea triennale") and a Master's ("Laurea Magistrale") Degree in Philosophical Sciences from the University of Naples "Federico II", during which he focused particularly on contemporary social ontology, metaphysics, philosophical hermeneutics, and classical phenomenology. He then specialized in Critical Social Theory at the University of Milano-Bicocca before moving toward computational and empirical research through a Research Master’s Degree in Media Studies (Cultural Data & AI track), at the University of Amsterdam.
 
-## Research Interests
-- Epistemology of Emotion Models between Social Psychology and Psychopathology
-- Sentiment & Emotion Modeling
-- Classification
-- Analysis in Natural Language Processing\Computational Linguistics
-- Empirical Computational Ethics
-- Science and Technology Studies
-- Critical Social Metaphysics and Network Analysis
+Across these stages, his research has been constantly de-constructed and re-constructed around the relationship between theoretical structures and their material and technical operationalization. Originating in philosophical hermeneutics, this interest conceives translation as a process through which concepts are reformulated, rendered commensurable, and made operative across different epistemic and technical systems. He has progressively extended this perspective to computational models of language and affect. His latest studies examined the logico-epistemological conditions through which psychological, psychopathological, and psychiatric theories of emotion are translated into computational objects and procedures, leading to a meta-theoretical framework for assessing the epistemological compatibility between influential theories of emotion and their operationalization in Natural Language Processing, evaluating the conditions under which psychological concepts and assumptions can coherently perform particular computational tasks. His Research Master’s work developed this orientation through dimensional sentiment analysis, lexical co-occurrence networks, and Actor-Network Theory, investigating how models, datasets, annotation procedures, and theoretical assumptions participate in the production of affective knowledge.
+
+His PhD brings these questions into the study of linguistic and cultural bias in multilingual AI. The project challenges the assumption that meaning can be represented independently enough from individual languages and cultures to permit reliable cross-lingual transfer, using affective meaning—and sentiment in particular—as its central empirical case. It focuses on two connected applications: machine translation, asking to what extent sentiment survives translation, and cross-lingual sentiment analysis, examining whether resources or models developed within one linguistic setting remain valid when transferred to another. The research compares symbolic approaches, including multilingual lexical-semantic networks and concept-based alignment through the Universal Knowledge Core, with neural machine translation, multilingual encoders, and large language models.
 
 ## Links
 - GitHub: [@GAvellino](https://github.com/GAvellino)
