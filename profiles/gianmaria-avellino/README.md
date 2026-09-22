@@ -1,6 +1,6 @@
 # Gianmaria Avellino
 
-**PhD Researcher** — ReMa candidate in Cultural Data & AI within the department of Media Studies, University of Amsterdam.
+**PhD Researcher** 
 
 ## About
 Gianmaria Avellino is pursuing a PhD in Empirical Computational Ethics and Data Science in cotutelle between the Center for Critical Computational Studies at Goethe University Frankfurt (Department of Social Sciences) and IMT Atlantique (Department of Data Science), part of the Institut Mines-Télécom, in Brest, France. His training is originally rooted in philosophy, history and classical studies. He holds a Bachelor's ("Laurea triennale") and a Master's ("Laurea Magistrale") Degree in Philosophical Sciences from the University of Naples "Federico II", during which he focused particularly on contemporary social ontology, metaphysics, philosophical hermeneutics, and classical phenomenology. He then specialized in Critical Social Theory at the University of Milano-Bicocca before moving toward computational and empirical research through a Research Master’s Degree in Media Studies (Cultural Data & AI track), at the University of Amsterdam.
