@@ -22,7 +22,7 @@ Central to our programme is a relational concept of normativity. Normative claim
 |------|------|---------|
 | Prof. Dr. Paula Helm | Group Lead | [→ Profile](./profiles/paula-helm/) |
 | Dr. Yarden Skop| PostDoc Researcher | [→ Profile](./profiles/yarden-skop/) |
-| Giamaria Avellino | PhD Researcher | [→ Profile](./profiles/giamaria-avellino/) |
+| Gianmaria Avellino | PhD Researcher | [→ Profile](./profiles/gianmaria-avellino/) |
 | Ella Streefkerk | PhD Researcher | [→ Profile](./profiles/ella-streefkerk/) |
 | Mihlali Gubevu | Research Assistant | [→ Profile](./profiles/mihlali-gubevu/) |
  
