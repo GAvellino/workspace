@@ -1,0 +1,22 @@
+# Local research data
+# Research resources must be obtained independently and are not stored in this repository.
+data/raw/*
+!data/raw/.gitkeep
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment/configuration files
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
